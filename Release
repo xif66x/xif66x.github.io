@@ -1,0 +1,8 @@
+Origin: xif66x Repo
+Label: xif66x Repo
+Suite: stable
+Version: 1.0
+Codename: xif66x Repo
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: xif66x Repo
