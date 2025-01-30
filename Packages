@@ -18,3 +18,24 @@ SileoDepiction:
 
 
 
+Package: com.xif66x.dramatnoads
+Name: dramatnoads
+Version: 1.0
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: com.xif66x.dramatnoads.deb
+Size: 418222
+MD5sum: 591aae860ee37105d641b2f98f2cf40f
+SHA1: bb7561e7313f26b5e27f3cb0637d4e149a9079de
+SHA256: e5b3bfe50791eddc774c43a05065c767d3ce5a1ecbfceb1294706d367b1fd444
+Section: Roothied
+Description: ازاله الاعلامات من دراما تركي
+Author: xif66x 
+Depiction: 
+SileoDepiction: 
+
+
+
+
+
+
