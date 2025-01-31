@@ -1,7 +1,10 @@
 
 
+
+
+
 Package: com.xif66x.dramatnoads
-Name: dramatnoads
+Name: dramatnoads -root hide
 Version: 1.0
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
@@ -10,7 +13,7 @@ Size: 358994
 MD5sum: 2916894e54df10c12657f0aac0a23f78
 SHA1: a9f584288214d5f01f38a9ff0878873c88b02931
 SHA256: 33713a4feb4ad240aedb6d458ea5c47046988bb631fdccc950bba444afa3b844
-Section: Tweaks
+Section: Roothide
 Description: noAds
 Author: xif66x <insta@xif66x>
 Depiction: 
@@ -18,26 +21,6 @@ SileoDepiction:
 Icon: 
 Installed-size: 409
 
-
-
-
-Package: com.xif66x.alohapatch
-Name: Aloha Patch
-Version: 4.2.0
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate
-Filename: ./debs/com.xif66x.alohapatch_4.2.0_iphoneos-arm64.deb
-Size: 2026
-MD5sum: 81a2049adcf13d9ffd3f6231e5127018
-SHA1: 41fc4a96af72bfb9a1ffa80e0f887b060b0ac36b
-SHA256: e227a30cf78e6ad32aa55612110d00b6465a00e8d301c4861b30e7301cd3eba8
-Section: Tweaks
-Description: ***Made using Flex To Theos updated by: Randy420***
-Author: xif66x <b>
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 2
 
 
 
