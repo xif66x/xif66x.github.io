@@ -1,42 +1,105 @@
 
 
-Package: com.cydiaabdullah.cacloud
-Name: CACloud
-Version: 2.1
+Package: com.yousefalhadidi.trab
+Name: Trab
+Version: 1.0
 Architecture: iphoneos-arm64
-Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.cydiaabdullah.cacloud_v2.1_iphoneos-arm64.deb
-Size: 126332
-MD5sum: 45af490a2513bd3a7b50cf67f0272da6
-SHA1: 09e51145ea6354b2ae5d8b55555cc220dea0a58a
-SHA256: bee54f30548afb979541f7c9bf831cdffd31026a2dcdf3afab39b13fd72e76cf
-Section: Tweaks
-Description: حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
-Author: CydiaAbdullah
+Depends: mobilesubstrate
+Filename: ./debs/com.yousefalhadidi.trab_iphoneos-arm64.deb
+Size: 8166
+MD5sum: 11a7cc1d30c0cdba6f0a995162f84f19
+SHA1: 46277f7a6c4349642b6950e20a740a248b558728
+SHA256: b1076f5152aab6ca79abd5eb255bf310ca15b6182f331c0e3194eb887edfc6e4
+Section: Tweaks by yousef
+Description: no ads for tarb apps
+Author: yousef alhadidi <insta@xif66x>
 Depiction: 
 SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 124
+Icon: https://tools4cydia.info/images/AppIcon76x76@2x~ipad 2.png
+Installed-size: 0
 
 
 
 
-Package: com.cydiaabdullah.cacloud
-Name: CACloud
-Version: 2.1
+Package: com.yousefalhadidi.fileplay
+Name: Fileplay 
+Version: 1.0
 Architecture: iphoneos-arm64
-Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.cydiaabdullah.cacloud_v2.1_iphoneos-arm64.deb
-Size: 126332
-MD5sum: 45af490a2513bd3a7b50cf67f0272da6
-SHA1: 09e51145ea6354b2ae5d8b55555cc220dea0a58a
-SHA256: bee54f30548afb979541f7c9bf831cdffd31026a2dcdf3afab39b13fd72e76cf
-Section: Tweaks
-Description: حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
-Author: CydiaAbdullah
+Depends: mobilesubstrate
+Filename: ./debs/com.yousefalhadidi.fileplay_iphoneos-arm64.deb
+Size: 8334
+MD5sum: 76c2f3750c71455b9d3b034757e85f71
+SHA1: a22d1a218e80af947eb9a7cb845988af0d793652
+SHA256: cbf596385b1e17790b71fc2bfb360c347f8e04bfe91c8de545315f6adf3601c6
+Section: Tweaks by yousef
+Description: no ads for fileplay
+Author: yousef alhadidi <insta@xif66x>
 Depiction: 
 SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 124
+Icon: https://tools4cydia.info/images/AppIcon76x76@2x~ipad.png
+Installed-size: 0
+
+
+
+
+Package: com.yousefalhadidi.andmpatch
+Name: ANDM 
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/com.yousefalhadidi.andm_iphoneos-arm64.deb
+Size: 8164
+MD5sum: 0be8312342c1170fc1799c359cd6bc2e
+SHA1: 12751f77761c0d5b2ac5655422b7adf05593f0e2
+SHA256: 8726aa3d02bf55ea86b6fb9654352ed2c8472377f7221f4bb52478e1dbafdb0a
+Section: Tweaks by yousef
+Description: no ads for ANDM
+Author: yousef alhadidi <insta@xif66x>
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/AppIcon40x40@2x~ipad.png
+Installed-size: 0
+
+
+
+
+Package: com.yousefalhadidi.dramatr
+Name: dramaTr
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/com.yousefalhadidi.dramatr_iphoneos-arm64.deb
+Size: 8084
+MD5sum: 64d6b4fedd5ed98708e7155642c6e588
+SHA1: d3fbff02ee40a0bd72b17b0e5a08bdf10d50d546
+SHA256: 6bd2f01ab3af8e9e8a2f557d89ad541497203c2154e24d11861692386ed2e618
+Section: Tweaks by yousef
+Description: no ads for drama turki app
+Author: yousef alhadidi <insta@xif66x>
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/AppIcon50x50@2x~ipad.png
+Installed-size: 0
+
+
+
+
+Package: com.xif66x.dramatr
+Name: dramaTr
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/com.xif66x.dramatr_iphoneos-arm64.deb
+Size: 7816
+MD5sum: fbd520995c2c12332aee70ee27d693fb
+SHA1: a0771f66ae001a5fee0377ee757cd3da2475d0ae
+SHA256: 4ad876759e305cf5b843be8668d150c3cc06badc7c602bfce4439e936642dd60
+Section: Tweaks
+Description: إزاله الإعلانات من تطبيق دراما تركي
+Author: xif66x <insta@xif66x>
+Depiction: 
+SileoDepiction: 
+Icon: 
+Installed-size: 8
 
 
