@@ -14,7 +14,6 @@ SHA512: 378b2e825561b7400d4c528a870d303b6175b576d21757828663ec71df6230daf8a2af93
 Description: no ads for ANDM
 Name: ANDM Patch
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://imgur.com/a/UacMinX
 
 Package: com.yousefalhadidi.dramatr
 Architecture: iphoneos-arm64
@@ -23,7 +22,7 @@ Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 156
 Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.dramatr_1.0+debug_iphoneos-arm64.deb
+Filename: ./debs//com.yousefalhadidi.dramatr_iphoneos-arm64.deb
 Size: 8084
 MD5sum: 64d6b4fedd5ed98708e7155642c6e588
 SHA1: d3fbff02ee40a0bd72b17b0e5a08bdf10d50d546
@@ -32,7 +31,6 @@ SHA512: f933c609dfccec164b5c86ec8c3d167c6c6a6e8aa0256c3af6b40746a6c1b272741343df
 Description: no ads for drama turki app
 Name: dramaTr
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://imgur.com/a/UacMinX
 
 Package: com.yousefalhadidi.fileplaypatch
 Architecture: iphoneos-arm64
@@ -50,7 +48,6 @@ SHA512: 91f06a7ee68501008919a9bf4c1917ff39fb9c82f260adbaa332012c0d977e792152a9ab
 Description: no ads for fileplay
 Name: Fileplay Patch
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://imgur.com/a/UacMinX
 
 Package: com.yousefalhadidi.trab
 Architecture: iphoneos-arm64
@@ -68,5 +65,4 @@ SHA512: 91d798f90f56405a609e8087cf58a678200164b21d88dc85c4c860047e4e3ee97fbc1fd1
 Description: no ads for tarb apps
 Name: Trab
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://imgur.com/a/UacMinX
 
