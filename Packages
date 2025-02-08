@@ -88,6 +88,24 @@ Name: Fileplay Patch
 Author: yousef alhadidi <insta@xif66x>
 Icon: https://i.imgur.com/rkanV9K.jpg
 
+Package: com.yousefalhadidi.photoleappatch
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.photoleappatch_iphoneos-arm64.deb
+Size: 1878
+MD5sum: 7225fb16c9895357fb08db8a7620cb44
+SHA1: 1399bd27379c8032be987ae9d68639130bb657dc
+SHA256: 59c749c02d4e09874111ba7086a396b62619773ca7012c101a48dc081a5376e7
+SHA512: 19bbe0e75c2bcce24b76f517f5e3f53189ae4feea848e56ecd0d53dcdab02a2f1c2b79333e96176fc089b4b75dc41cb23c4a89f955c3ad6ad3ca26921ff57a25
+Description: تفعيل المميزات للتطبيق
+Name: Photoleap
+Author: yousef alhadidi <insta@xif66x>
+Icon: https://i.imgur.com/rkanV9K.jpg
+
 Package: com.yousefalhadidi.trab
 Architecture: iphoneos-arm64
 Version: 1.0+debug
