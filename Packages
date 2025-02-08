@@ -17,18 +17,18 @@ Author: yousef alhadidi <insta@xif66x>
 
 Package: com.yousefalhadidi.dramatr
 Architecture: iphoneos-arm64
-Version: 1.0+debug
+Version: 2.0+debug
 Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
-Installed-Size: 156
+Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.dramatr_iphoneos-arm64.deb
-Size: 8084
-MD5sum: 64d6b4fedd5ed98708e7155642c6e588
-SHA1: d3fbff02ee40a0bd72b17b0e5a08bdf10d50d546
-SHA256: 6bd2f01ab3af8e9e8a2f557d89ad541497203c2154e24d11861692386ed2e618
-SHA512: f933c609dfccec164b5c86ec8c3d167c6c6a6e8aa0256c3af6b40746a6c1b272741343df21047a2323ac1160ba3d4505a25210c1929c12b2b0239abb4c38ff9e
-Description: no ads for drama turki app
+Filename: ./debs//com.yousefalhadidi.dramatr_2.0+debug_iphoneos-arm64.deb
+Size: 3526
+MD5sum: fb53878b925a36df8430d564468e509a
+SHA1: fefaa65e1aa87ef1397a440d15cf72c030cb1fb8
+SHA256: 27a440fd5496259b6087cda59865bdaa137b6de8d3e7211e99cd4ca305722373
+SHA512: 772ba4dc348b83e5e473b55c50e526dd90af5eee07876e84b1502ac30cc5cc128e5814b7127331a5447fe9d0d72774c2d68df90097bed623dfa5e1967b097363
+Description: no ads for drama turki
 Name: dramaTr
 Author: yousef alhadidi <insta@xif66x>
 
