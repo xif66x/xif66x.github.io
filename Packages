@@ -14,6 +14,7 @@ SHA512: 378b2e825561b7400d4c528a870d303b6175b576d21757828663ec71df6230daf8a2af93
 Description: no ads for ANDM
 Name: ANDM Patch
 Author: yousef alhadidi <insta@xif66x>
+Icon: https://imgur.com/a/x0artXm
 
 Package: com.yousefalhadidi.dramatr
 Architecture: iphoneos-arm64
@@ -31,6 +32,7 @@ SHA512: 772ba4dc348b83e5e473b55c50e526dd90af5eee07876e84b1502ac30cc5cc128e5814b7
 Description: no ads for drama turki
 Name: dramaTr
 Author: yousef alhadidi <insta@xif66x>
+Icon: https://imgur.com/a/x0artXm
 
 Package: com.yousefalhadidi.dramatr
 Architecture: iphoneos-arm64
@@ -48,6 +50,25 @@ SHA512: bf0b5c91205a39af9edb27411a5629ff6fc1600c73c2874bcf3c76e3c09770056c815e65
 Description: no ads for drama turki
 Name: dramaTr
 Author: yousef alhadidi <insta@xif66x>
+Icon: https://imgur.com/a/x0artXm
+
+Package: com.yousefalhadidi.dramatr
+Architecture: iphoneos-arm64
+Version: 3.0+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.dramatr_3.0+debug_iphoneos-arm64.deb
+Size: 8072
+MD5sum: f6af7fd944ca06bf4533217747568791
+SHA1: 02583f40061d293c4bea7c1f5029455e8b9da337
+SHA256: 5942ae59d2b1b5a1ccdc00ffa74753671edc6efeef77b6a487a10c40d56ffff6
+SHA512: c67d775f60a3e78f0bebaf431a04cf3039adc74cf57e0ea8fed40d257ed15ccfe3f0acb28537c2ae2705eef2e9eaa0b10968f86cf0ff22bc3f62678181c8bccd
+Description: no ads for drama turki apps
+Name: dramaTr
+Author: yousef alhadidi <insta@xif66x>
+Icon: https://imgur.com/a/x0artXm
 
 Package: com.yousefalhadidi.fileplaypatch
 Architecture: iphoneos-arm64
@@ -65,6 +86,7 @@ SHA512: 91f06a7ee68501008919a9bf4c1917ff39fb9c82f260adbaa332012c0d977e792152a9ab
 Description: no ads for fileplay
 Name: Fileplay Patch
 Author: yousef alhadidi <insta@xif66x>
+Icon: https://imgur.com/a/x0artXm
 
 Package: com.yousefalhadidi.trab
 Architecture: iphoneos-arm64
@@ -82,4 +104,5 @@ SHA512: 91d798f90f56405a609e8087cf58a678200164b21d88dc85c4c860047e4e3ee97fbc1fd1
 Description: no ads for tarb apps
 Name: Trab
 Author: yousef alhadidi <insta@xif66x>
+Icon: https://imgur.com/a/x0artXm
 
