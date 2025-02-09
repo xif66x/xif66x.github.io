@@ -1,7 +1,7 @@
 Package: com.yousefalhadidi.andmpatch
 Architecture: iphoneos-arm64
 Version: 1.0+debug
-Section: إزالة الاعلانات
+Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 156
 Depends: mobilesubstrate
@@ -19,7 +19,7 @@ Icon: https://i.imgur.com/rkanV9K.jpg
 Package: com.yousefalhadidi.dramatr
 Architecture: iphoneos-arm64
 Version: 2.0+debug
-Section: إزالة الاعلانات
+Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 152
 Depends: mobilesubstrate
@@ -32,12 +32,12 @@ SHA512: 772ba4dc348b83e5e473b55c50e526dd90af5eee07876e84b1502ac30cc5cc128e5814b7
 Description: no ads for drama turki
 Name: dramaTr
 Author: yousef alhadidi <insta@xif66x>
-Icon: 
+Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.dramatr
 Architecture: iphoneos-arm64
 Version: 2.0
-Section: إزالة الاعلانات
+Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 152
 Depends: mobilesubstrate
@@ -50,12 +50,12 @@ SHA512: bf0b5c91205a39af9edb27411a5629ff6fc1600c73c2874bcf3c76e3c09770056c815e65
 Description: no ads for drama turki
 Name: dramaTr
 Author: yousef alhadidi <insta@xif66x>
-Icon: 
+Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.dramatr
 Architecture: iphoneos-arm64
 Version: 3.0+debug
-Section: إزالة الاعلانات
+Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 156
 Depends: mobilesubstrate
@@ -68,12 +68,12 @@ SHA512: c67d775f60a3e78f0bebaf431a04cf3039adc74cf57e0ea8fed40d257ed15ccfe3f0acb2
 Description: no ads for drama turki apps
 Name: dramaTr
 Author: yousef alhadidi <insta@xif66x>
-Icon: 
+Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.fileplaypatch
 Architecture: iphoneos-arm64
 Version: 1.0+debug
-Section: إزالة الاعلانات
+Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 160
 Depends: mobilesubstrate
@@ -86,12 +86,12 @@ SHA512: 91f06a7ee68501008919a9bf4c1917ff39fb9c82f260adbaa332012c0d977e792152a9ab
 Description: no ads for fileplay
 Name: Fileplay Patch
 Author: yousef alhadidi <insta@xif66x>
-Icon: 
+Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.photoleappatch
 Architecture: iphoneos-arm64
 Version: 1.0+debug
-Section: فتح مميزات
+Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 72
 Depends: mobilesubstrate
@@ -104,7 +104,7 @@ SHA512: 19bbe0e75c2bcce24b76f517f5e3f53189ae4feea848e56ecd0d53dcdab02a2f1c2b7933
 Description: تفعيل المميزات للتطبيق
 Name: Photoleap
 Author: yousef alhadidi <insta@xif66x>
-Icon: 
+Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.trab
 Architecture: iphoneos-arm64
@@ -122,23 +122,23 @@ SHA512: 91d798f90f56405a609e8087cf58a678200164b21d88dc85c4c860047e4e3ee97fbc1fd1
 Description: no ads for tarb apps
 Name: Trab
 Author: yousef alhadidi <insta@xif66x>
-Icon: 
+Icon: https://i.imgur.com/rkanV9K.jpg
 
-Package: com.xif66x.qq
-Architecture: iphoneos-arm
-Version: 0.0.1
+Package: qq
+Architecture: iphoneos-arm46
+Version: 0.0.1-3+debug
 Section: Themes
 Maintainer: qq
-Installed-Size: 1924
+Installed-Size: 3848
 Depends: com.spark.snowboard
-Filename: ./debs//qq_0.0.1-2+debug_iphoneos-arm.deb
-Size: 1633510
-MD5sum: 2ed778b9f807b32ce473d6982e9de107
-SHA1: 3f113edc716a0359c7a35756e9de816db2984d76
-SHA256: 77e65c291b1342bdb6080f0b760f297a5e86fd50ccaac9ff2ad72138d1597bdc
-SHA512: 20c70bfb4b600a33f5e60607e55c3391439035bdcbd0362bb7a42c6533978ef74906cc903a4022b413bb6f61c7d32f4028ba897b175725082d2dc68442b4dbe6
-Description: good phone thems
-Name: key
-Author: yousef
-Icon: 
+Filename: ./debs//qq_0.0.1-3+debug_iphoneos-arm46.deb
+Size: 3244958
+MD5sum: 6db747c8b34db728b601005255cbda4b
+SHA1: d2aca3aa573573a8985d322a857a694d1cb4f96b
+SHA256: 90441e6c73d26d18af8e7a2f7e62aa186b816024ec44605cde9d28be57ef3902
+SHA512: a55ef0b285f0c762f3d71a8a8ceadf6aebd26edd902314532905798758dc466a87037313e6b4243a0d005e01604b5900baeb1450d700d357bfdf0faa1494b4c7
+Description: An awesome theme of some sort!!
+Name: qq
+Author: qq
+Icon: https://i.imgur.com/rkanV9K.jpg
 
