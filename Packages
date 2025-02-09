@@ -117,9 +117,9 @@ Description: no ads for tarb apps
 Name: Trab
 Author: yousef alhadidi <insta@xif66x>
 
-Package: qq
+Package: com.xif66x.qq
 Architecture: iphoneos-arm
-Version: 0.0.1-2+debug
+Version: 0.0.1
 Section: Themes
 Maintainer: qq
 Installed-Size: 1924
@@ -130,7 +130,7 @@ MD5sum: 2ed778b9f807b32ce473d6982e9de107
 SHA1: 3f113edc716a0359c7a35756e9de816db2984d76
 SHA256: 77e65c291b1342bdb6080f0b760f297a5e86fd50ccaac9ff2ad72138d1597bdc
 SHA512: 20c70bfb4b600a33f5e60607e55c3391439035bdcbd0362bb7a42c6533978ef74906cc903a4022b413bb6f61c7d32f4028ba897b175725082d2dc68442b4dbe6
-Description: An awesome theme of some sort!!
-Name: qq
-Author: qq
+Description: good phone thems
+Name: key
+Author: yousef
 
