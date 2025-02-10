@@ -1,6 +1,6 @@
-Package: com.yousefalhadidi.andmpatch2
-Architecture: iphoneos-arm64e
-Version: 999
+Package: com.yousefalhadidi.andmpatch
+Architecture: iphoneos-arm64
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 156
@@ -12,7 +12,7 @@ SHA1: 12751f77761c0d5b2ac5655422b7adf05593f0e2
 SHA256: 8726aa3d02bf55ea86b6fb9654352ed2c8472377f7221f4bb52478e1dbafdb0a
 SHA512: 378b2e825561b7400d4c528a870d303b6175b576d21757828663ec71df6230daf8a2af934e0fc6fb53f40c203f7d9f3990ae61ec1d3aa4f49946ca450b643197
 Description: no ads for ANDM
-Name: ANDM
+Name: ANDM Patch
 Author: yousef alhadidi <insta@xif66x>
 Icon: https://i.imgur.com/rkanV9K.jpg
 
@@ -103,6 +103,24 @@ SHA256: cbf596385b1e17790b71fc2bfb360c347f8e04bfe91c8de545315f6adf3601c6
 SHA512: 91f06a7ee68501008919a9bf4c1917ff39fb9c82f260adbaa332012c0d977e792152a9ab483bb5451b0f22f7e1f53ce650d96435757bcc7a34d918428da7d4fc
 Description: no ads for fileplay
 Name: Fileplay Patch
+Author: yousef alhadidi <insta@xif66x>
+Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.lahomlna
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.lahomlna.deb
+Size: 8218
+MD5sum: 32d3fe54159c2ebad4e5488a8bea9c0f
+SHA1: e89350147049c9341fbdffb7b862317e384a3579
+SHA256: c6c68391b8211a3b4814f721a99f5ba1528070285829d8b3a366f4a5f9ea515e
+SHA512: 15e0a8ff7152ee7d4052407615cfc7266d59ca669f51565ed26b6e8cd0796c1864d2f04f6df3d3d2c285bb2d809355fb03c1f58f527d40fa6395d64f67cfc913
+Description: ازاله الاعلانات من تطبيق صكة
+Name: lahom & lna
 Author: yousef alhadidi <insta@xif66x>
 Icon: https://i.imgur.com/rkanV9K.jpg
 
