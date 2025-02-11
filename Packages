@@ -14,4 +14,23 @@ SHA512: 15e0a8ff7152ee7d4052407615cfc7266d59ca669f51565ed26b6e8cd0796c1864d2f04f
 Description: ازاله الاعلانات من تطبيق صكة
 Name: lahom & lna
 Author: yousef alhadidi <insta@xif66x>
+Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.trab
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.trab.deb
+Size: 8166
+MD5sum: 11a7cc1d30c0cdba6f0a995162f84f19
+SHA1: 46277f7a6c4349642b6950e20a740a248b558728
+SHA256: b1076f5152aab6ca79abd5eb255bf310ca15b6182f331c0e3194eb887edfc6e4
+SHA512: 91d798f90f56405a609e8087cf58a678200164b21d88dc85c4c860047e4e3ee97fbc1fd1ae5859f8b7ed5d82a48717bccf1c33425a8af6e3e63491ef2364df8b
+Description: no ads for tarb apps
+Name: Trab
+Author: yousef alhadidi <insta@xif66x>
+Icon: https://i.imgur.com/rkanV9K.jpg
 
