@@ -1,6 +1,6 @@
 Package: com.yousefalhadidi.lahomlna
 Architecture: iphoneos-arm64
-Version: 1.0+debug
+Version: 1.0
 Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 156
@@ -18,7 +18,7 @@ Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.trab
 Architecture: iphoneos-arm64
-Version: 1.0+debug
+Version: 1.0
 Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 156
@@ -34,3 +34,19 @@ Name: Trab
 Author: yousef alhadidi <insta@xif66x>
 Icon: https://i.imgur.com/rkanV9K.jpg
 
+Package: com.yousefalhadidi.
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 
+Depends: 
+Filename: 
+Size: 
+MD5sum: 
+SHA256: 
+SHA512: 
+Description: 
+Name: 
+Author: yousef alhadidi <insta@xif66x>
+Icon: https://i.imgur.com/rkanV9K.jpg
