@@ -1,6 +1,24 @@
+Package: com.yousefalhadidi.animecloud
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 932
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.animecloud.deb
+Size: 165502
+MD5sum: 0911a03f599e82314901742c28454518
+SHA1: b1414fb1fabca720aacea59cf09e0f56ff93916d
+SHA256: 025d621300d7d3cbc96d23d483172f6b77a55a820226b838fe1fc1b59ad377ef
+SHA512: e222e98f455f7658cc12f4f69a5f3d376884595816319ff69c1a316fdc4ebd9bb69ecf5006ab27b64e12b737e903e6fdbf32f9819b5ade6d41689b059b0e1db3
+Description: اضافه رر التحميل وازاله الاعلانات
+Name: anime cloud
+Author: yousef alhadidi <insta@xif66x>
+Icon: https://i.imgur.com/rkanV9K.jpg
+
 Package: com.yousefalhadidi.lahomlna
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 156
@@ -18,7 +36,7 @@ Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.trab
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 156
@@ -34,19 +52,3 @@ Name: Trab
 Author: yousef alhadidi <insta@xif66x>
 Icon: https://i.imgur.com/rkanV9K.jpg
 
-Package: com.yousefalhadidi.
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: yousef alhadidi <insta@xif66x>
-Installed-Size: 
-Depends: 
-Filename: 
-Size: 
-MD5sum: 
-SHA256: 
-SHA512: 
-Description: 
-Name: 
-Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
