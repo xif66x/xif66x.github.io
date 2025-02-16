@@ -1,3 +1,20 @@
+Package: com.yousefalhadidi.andmpatch
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.andmpatch.deb
+Size: 8164
+MD5sum: 0be8312342c1170fc1799c359cd6bc2e
+SHA1: 12751f77761c0d5b2ac5655422b7adf05593f0e2
+SHA256: 8726aa3d02bf55ea86b6fb9654352ed2c8472377f7221f4bb52478e1dbafdb0a
+SHA512: 378b2e825561b7400d4c528a870d303b6175b576d21757828663ec71df6230daf8a2af934e0fc6fb53f40c203f7d9f3990ae61ec1d3aa4f49946ca450b643197
+Description: no ads for ANDM
+Name: ANDM Patch
+Author: yousef alhadidi <insta@xif66x>
+
 Package: com.yousefalhadidi.animecloud
 Architecture: iphoneos-arm64
 Version: 1.0+debug
@@ -14,7 +31,40 @@ SHA512: e222e98f455f7658cc12f4f69a5f3d376884595816319ff69c1a316fdc4ebd9bb69ecf50
 Description: اضافه رر التحميل وازاله الاعلانات
 Name: anime cloud
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.dramatr
+Architecture: iphoneos-arm64
+Version: 3.0+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.dramatr.deb
+Size: 8072
+MD5sum: f6af7fd944ca06bf4533217747568791
+SHA1: 02583f40061d293c4bea7c1f5029455e8b9da337
+SHA256: 5942ae59d2b1b5a1ccdc00ffa74753671edc6efeef77b6a487a10c40d56ffff6
+SHA512: c67d775f60a3e78f0bebaf431a04cf3039adc74cf57e0ea8fed40d257ed15ccfe3f0acb28537c2ae2705eef2e9eaa0b10968f86cf0ff22bc3f62678181c8bccd
+Description: no ads for drama turki apps
+Name: dramaTr
+Author: yousef alhadidi <insta@xif66x>
+
+Package: com.yousefalhadidi.fileplaypatch
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <insta@xif66x>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.fileplay.deb
+Size: 8334
+MD5sum: 76c2f3750c71455b9d3b034757e85f71
+SHA1: a22d1a218e80af947eb9a7cb845988af0d793652
+SHA256: cbf596385b1e17790b71fc2bfb360c347f8e04bfe91c8de545315f6adf3601c6
+SHA512: 91f06a7ee68501008919a9bf4c1917ff39fb9c82f260adbaa332012c0d977e792152a9ab483bb5451b0f22f7e1f53ce650d96435757bcc7a34d918428da7d4fc
+Description: no ads for fileplay
+Name: Fileplay Patch
+Author: yousef alhadidi <insta@xif66x>
 
 Package: com.yousefalhadidi.lahomlna
 Architecture: iphoneos-arm64
@@ -32,7 +82,6 @@ SHA512: 15e0a8ff7152ee7d4052407615cfc7266d59ca669f51565ed26b6e8cd0796c1864d2f04f
 Description: ازاله الاعلانات من تطبيق صكة
 Name: lahom & lna
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.trab
 Architecture: iphoneos-arm64
@@ -50,5 +99,4 @@ SHA512: 91d798f90f56405a609e8087cf58a678200164b21d88dc85c4c860047e4e3ee97fbc1fd1
 Description: no ads for tarb apps
 Name: Trab
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
