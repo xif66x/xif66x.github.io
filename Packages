@@ -108,7 +108,7 @@ Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.yacinetv
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 2.0
 Section: Tweaks
 Maintainer: yousef alhadidi <insta@xif66x>
 Installed-Size: 916
