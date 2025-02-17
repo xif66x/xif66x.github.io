@@ -14,7 +14,6 @@ SHA512: 378b2e825561b7400d4c528a870d303b6175b576d21757828663ec71df6230daf8a2af93
 Description: no ads for ANDM
 Name: ANDM Patch
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.animecloud
 Architecture: iphoneos-arm64
@@ -32,7 +31,6 @@ SHA512: e222e98f455f7658cc12f4f69a5f3d376884595816319ff69c1a316fdc4ebd9bb69ecf50
 Description: اضافه رر التحميل وازاله الاعلانات
 Name: anime cloud
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.dramatr
 Architecture: iphoneos-arm64
@@ -50,7 +48,6 @@ SHA512: c67d775f60a3e78f0bebaf431a04cf3039adc74cf57e0ea8fed40d257ed15ccfe3f0acb2
 Description: no ads for drama turki apps
 Name: dramaTr
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.fileplaypatch
 Architecture: iphoneos-arm64
@@ -68,7 +65,6 @@ SHA512: 91f06a7ee68501008919a9bf4c1917ff39fb9c82f260adbaa332012c0d977e792152a9ab
 Description: no ads for fileplay
 Name: Fileplay Patch
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.lahomlna
 Architecture: iphoneos-arm64
@@ -86,7 +82,6 @@ SHA512: 15e0a8ff7152ee7d4052407615cfc7266d59ca669f51565ed26b6e8cd0796c1864d2f04f
 Description: ازاله الاعلانات من تطبيق صكة
 Name: lahom & lna
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.trab
 Architecture: iphoneos-arm64
@@ -104,25 +99,6 @@ SHA512: 91d798f90f56405a609e8087cf58a678200164b21d88dc85c4c860047e4e3ee97fbc1fd1
 Description: no ads for tarb apps
 Name: Trab
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
-
-Package: com.yousefalhadidi.yacinetv
-Architecture: iphoneos-arm64
-Version: 2.0+debug
-Section: Tweaks
-Maintainer: yousef alhadidi <insta@xif66x>
-Installed-Size: 916
-Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.yacinetv.deb
-Size: 164968
-MD5sum: 5f509ddb66121eabc63b98c7b0dfacf9
-SHA1: dc4ec92467d6f8bb7added892ad713bbde4f3d5a
-SHA256: 9b8de0f7398c65b1478d73189445fc0a85e4fc4e19af94ed601017b4fd8a16cc
-SHA512: 066c6785259fc78ff3d54cb682b40f7492bab655740826adbc1783d8ad4fec838a9632fe498ad04dd9b668b0fe2089a487d1fd9a72b86f317c966cebcc6f8161
-Description: إزالة الاعلانات من التطبيق
-Name: YacineTV
-Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.yacinetv
 Architecture: iphoneos-arm64
@@ -140,5 +116,4 @@ SHA512: ad0e656cece5e05a2f9a0fe8064f0a3e417f0fc48d4a8c8b7a32fbe840b2d2e88a16997d
 Description: إزالة الاعلانات من التطبيق
 Name: YacineTV
 Author: yousef alhadidi <insta@xif66x>
-Icon: https://i.imgur.com/rkanV9K.jpg
 
