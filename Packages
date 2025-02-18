@@ -1,119 +1,180 @@
-Package: com.yousefalhadidi.andmpatch
-Architecture: iphoneos-arm64
-Version: 1.0+debug
-Section: Tweaks
-Maintainer: yousef alhadidi <insta@xif66x>
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.andmpatch.deb
-Size: 8164
-MD5sum: 0be8312342c1170fc1799c359cd6bc2e
-SHA1: 12751f77761c0d5b2ac5655422b7adf05593f0e2
-SHA256: 8726aa3d02bf55ea86b6fb9654352ed2c8472377f7221f4bb52478e1dbafdb0a
-SHA512: 378b2e825561b7400d4c528a870d303b6175b576d21757828663ec71df6230daf8a2af934e0fc6fb53f40c203f7d9f3990ae61ec1d3aa4f49946ca450b643197
-Description: no ads for ANDM
-Name: ANDM Patch
-Author: yousef alhadidi <insta@xif66x>
-
 Package: com.yousefalhadidi.animecloud
 Architecture: iphoneos-arm64
-Version: 1.0+debug
+Version: 1.0
 Section: Tweaks
-Maintainer: yousef alhadidi <insta@xif66x>
-Installed-Size: 932
-Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.animecloud.deb
-Size: 165502
-MD5sum: 0911a03f599e82314901742c28454518
-SHA1: b1414fb1fabca720aacea59cf09e0f56ff93916d
-SHA256: 025d621300d7d3cbc96d23d483172f6b77a55a820226b838fe1fc1b59ad377ef
-SHA512: e222e98f455f7658cc12f4f69a5f3d376884595816319ff69c1a316fdc4ebd9bb69ecf5006ab27b64e12b737e903e6fdbf32f9819b5ade6d41689b059b0e1db3
-Description: اضافه رر التحميل وازاله الاعلانات
-Name: anime cloud
-Author: yousef alhadidi <insta@xif66x>
-
-Package: com.yousefalhadidi.dramatr
-Architecture: iphoneos-arm64
-Version: 3.0+debug
-Section: Tweaks
-Maintainer: yousef alhadidi <insta@xif66x>
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.dramatr.deb
-Size: 8072
-MD5sum: f6af7fd944ca06bf4533217747568791
-SHA1: 02583f40061d293c4bea7c1f5029455e8b9da337
-SHA256: 5942ae59d2b1b5a1ccdc00ffa74753671edc6efeef77b6a487a10c40d56ffff6
-SHA512: c67d775f60a3e78f0bebaf431a04cf3039adc74cf57e0ea8fed40d257ed15ccfe3f0acb28537c2ae2705eef2e9eaa0b10968f86cf0ff22bc3f62678181c8bccd
-Description: no ads for drama turki apps
-Name: dramaTr
-Author: yousef alhadidi <insta@xif66x>
-
-Package: com.yousefalhadidi.fileplaypatch
-Architecture: iphoneos-arm64
-Version: 1.0+debug
-Section: Tweaks
-Maintainer: yousef alhadidi <insta@xif66x>
+Maintainer: xif66x
 Installed-Size: 160
 Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.fileplay.deb
-Size: 8334
-MD5sum: 76c2f3750c71455b9d3b034757e85f71
-SHA1: a22d1a218e80af947eb9a7cb845988af0d793652
-SHA256: cbf596385b1e17790b71fc2bfb360c347f8e04bfe91c8de545315f6adf3601c6
-SHA512: 91f06a7ee68501008919a9bf4c1917ff39fb9c82f260adbaa332012c0d977e792152a9ab483bb5451b0f22f7e1f53ce650d96435757bcc7a34d918428da7d4fc
-Description: no ads for fileplay
-Name: Fileplay Patch
-Author: yousef alhadidi <insta@xif66x>
+Filename: ./debs//com.yousefalhadidi.animecloud.deb
+Size: 8802
+MD5sum: 10f70cd3a4a4b67bfa795a985cb7f091
+SHA1: c33fc9c1a9a4cda705abdb1547ad297929284e56
+SHA256: 4a974083a68a6be492efd0a39e03bc9ce6cd8c1376aa110620bc62c104c6ba04
+SHA512: 3866e57eb907119d5e1e3c0408668b5298b6cb70d5cdf9288a8dcf9d64f60b487ce46f05dc1b7a49639f2c4fa0c134f1554b50e5e3eeee662a58f1f4f9609b8b
+Description: اضافه زر التحميل وحذف الاعلانات
+Name: anime cloud
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.jokersport
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.jokersport.deb
+Size: 164564
+MD5sum: 137e2357b30d94d220715b231ac77ea0
+SHA1: 2a42864174438a5701a9ad0a9ccb0bde9bdf1bd2
+SHA256: eec59842d51e0d7e8446f8fb3e4b95edee5d5f0ed5b5681c24591659e2dd5b4d
+SHA512: 03c3775afa27f9ce7cd060018fb4cab9687ca449bf4549d226fe97e24faca627db8cec4ffadf3ff945ddc767ca416bbc9266724ac95b17758df398c24c772355
+Description: إزاله الاعلانات من التطبيق
+Name: jokersport
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.lahomlna
 Architecture: iphoneos-arm64
-Version: 1.0+debug
+Version: 1.0
 Section: Tweaks
-Maintainer: yousef alhadidi <insta@xif66x>
-Installed-Size: 156
+Maintainer: xif66x
+Installed-Size: 916
 Depends: mobilesubstrate
 Filename: ./debs//com.yousefalhadidi.lahomlna.deb
-Size: 8218
-MD5sum: 32d3fe54159c2ebad4e5488a8bea9c0f
-SHA1: e89350147049c9341fbdffb7b862317e384a3579
-SHA256: c6c68391b8211a3b4814f721a99f5ba1528070285829d8b3a366f4a5f9ea515e
-SHA512: 15e0a8ff7152ee7d4052407615cfc7266d59ca669f51565ed26b6e8cd0796c1864d2f04f6df3d3d2c285bb2d809355fb03c1f58f527d40fa6395d64f67cfc913
-Description: ازاله الاعلانات من تطبيق صكة
+Size: 164780
+MD5sum: 8f1d44bb8262f99a82f8f94c3ddf9fa6
+SHA1: b76823750dee3e8701236cbda61d0c2fca2a5824
+SHA256: d0a8fd2f5b5d5189a564c2d6fd8898194ba4d3efb121583ffe0bf6707a66256f
+SHA512: 536ed51c421feb78f22d9f28477d7f11a3c95c78ebe9890d91f1cf8ca691e2e5b29a9af7e054de2e0f5d6b86798d00350444731690a60bb153f6977b68b2098b
+Description: إزالة الاعلانات من تطبيق صكة
 Name: lahom & lna
-Author: yousef alhadidi <insta@xif66x>
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
 
-Package: com.yousefalhadidi.trab
+Package: com.yousefalhadidi.numberbook
 Architecture: iphoneos-arm64
-Version: 1.0+debug
+Version: 1.0
 Section: Tweaks
-Maintainer: yousef alhadidi <insta@xif66x>
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.numberbook.deb
+Size: 165418
+MD5sum: b77cee5cc4757fa7479b8c4aac0b363a
+SHA1: f316caed0fb46eee4563cbbc2f9c9e4c4fde8aec
+SHA256: 55b1618e6ef6cbd8f96e76d70b902fca611a8b25603c51d9a06abc75773dfeb3
+SHA512: 857fe5b75a2c894b860f014fe429acefc9125d279e9ef0e4d48aec6e645e904056eae22a174a614f8a0d7967454821e3a5051443758990b697122c672916b62d
+Description: إزاله الاعلانات من التطبيق
+Name: number book
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.photoleap
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 932
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.photoleap.deb
+Size: 165732
+MD5sum: eb2f9752a560f143466cf2eed36c0c09
+SHA1: b8bb6c88b6d820b29b2629500259eb0dd659ad45
+SHA256: abc892532d6b8a8bb0e351d890d7ce8fec163d02902a3cb0cc8e2528cc6d3c36
+SHA512: 9fa83718801aeb274e8929a7a16213e67195a058630e6c8607cc303a19f505dde6e8e0085dc17c4a50c87f086a82d0c840216a13d463f18ea70e2139e034bfc8
+Description: فتح مميزات التطبيق وازاله الاعلانات
+Name: Photoleap
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.speedmeter
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.speedmeter.deb
+Size: 164744
+MD5sum: 12c9841db9deee5e3ec339f153989c4a
+SHA1: 279e4eb02466fd6677fa366cb6bf53812b921641
+SHA256: 66dfd5401bdd9952635e762d60f36df02261c4f7d17da75aa5ad57a7ef0716c0
+SHA512: 4fa57b0fbd2242413371c88fb9a13269521648eed7f3a1d6c396cd85b1ba4bbfdc56ca2394c4159430a317ed8d661ba815d28739f423b5befb4721fd6cc1da6f
+Description: إزاله الاعلانات من التطبيق
+Name: speedmeter
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.sportelo
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: xif66x
 Installed-Size: 156
 Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.trab.deb
-Size: 8166
-MD5sum: 11a7cc1d30c0cdba6f0a995162f84f19
-SHA1: 46277f7a6c4349642b6950e20a740a248b558728
-SHA256: b1076f5152aab6ca79abd5eb255bf310ca15b6182f331c0e3194eb887edfc6e4
-SHA512: 91d798f90f56405a609e8087cf58a678200164b21d88dc85c4c860047e4e3ee97fbc1fd1ae5859f8b7ed5d82a48717bccf1c33425a8af6e3e63491ef2364df8b
-Description: no ads for tarb apps
-Name: Trab
-Author: yousef alhadidi <insta@xif66x>
+Filename: ./debs//com.yousefalhadidi.sportelo.deb
+Size: 8280
+MD5sum: 454c2df7ce236b1064716f98f1007444
+SHA1: 438ca1a530fc8026249e5ffb7b83d670c33958f5
+SHA256: 07506b8490b0390dda4fe88eca784f58f3913c0a02a925db6a8ca97b11d5fcfe
+SHA512: 299afc53b710e3ce87d25ccf00a5246d73b958b90c51f431fabca14309a9fb0d31bd76f3baecd97fbe9fc722a2172f654f191b30090db5e45dae8e88dd8c440b
+Description: إزاله الاعلانات من التطبيق
+Name: sportelo
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.vpnsuperunlimitedproxy
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 940
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.vpnsuperunlimitedproxy.deb
+Size: 167564
+MD5sum: fd7ab728dfc7b5fd535f66cf95404f13
+SHA1: 7e7b2e5380d95b9fc48d5bfa5bf9f8830cdacf19
+SHA256: d7cb711969c683fc1b58aba6a40ecc0cb4f1f56fd880b502a4aa44639d6cd204
+SHA512: 0d70b2e15384b6686305485ba5165ba163d311bd933a6009602f24656a25adc7d7335efbd1f91ccdfd556a7a838acecd863fccccd93a16bebda21bea8f3ca0e0
+Description: إزاله الاعلانات من التطبيق
+Name: VPN – Super Unlimited Proxy
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.yacinetv
 Architecture: iphoneos-arm64
-Version: 1.0+debug
+Version: 1.0
 Section: Tweaks
-Maintainer: yousef alhadidi <insta@xif66x>
+Maintainer: xif66x
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.yacinetv.deb
+Size: 8174
+MD5sum: d401515018f31ea355475e32e990a7ef
+SHA1: b2012b34507da8364a99e8744bf72598d6ccc983
+SHA256: 01fe16dc47c8fa16fabb13189ba5a9b967598b665d441457d07910611ed2d0b9
+SHA512: 5c56caa6c43f69d8839fa7496714a87dd19b894a1ae2ea761d4daf99cac8c1379629d209d51a7ddb7ca812f6416eefd2dd9fd6ab319d1c7013246341dc1fb670
+Description: حذف الاعلانات من التطبيق
+Name: YacineTV
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
+
+Package: com.yousefalhadidi.yacinetv11
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: xif66x
 Installed-Size: 916
 Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.yacinetv_1.0+debug_iphoneos-arm64.deb
-Size: 164978
-MD5sum: 120156d2f8748757725aab77d3a31b54
-SHA1: 68bb97cc1dc3e5c29c558ca3572f6f4abac2dba7
-SHA256: 4f4dd2768b8bc06a845102208ab22308454a04cbeffe0154843ea75b8ae869a3
-SHA512: ad0e656cece5e05a2f9a0fe8064f0a3e417f0fc48d4a8c8b7a32fbe840b2d2e88a16997d6decac8844fce8928ff05b6af2789e03aed6098c227b5284ace2b421
-Description: إزالة الاعلانات من التطبيق
-Name: YacineTV
-Author: yousef alhadidi <insta@xif66x>
+Filename: ./debs//com.yousefalhadidi.yacinetv11.deb
+Size: 165332
+MD5sum: 53e2f4c1cce54ad1e4612bc731621222
+SHA1: c0e878d93f41a88be2a697b521995f954c6fe3e7
+SHA256: 78ad67adee2a20f1ff54d12e29d550fe3e98f3f5c2d842feba1e7d327ed60d01
+SHA512: 84ba70e463397ff509f77122f1aff06f49b4b0aa513e4cb55cb76b93da7f98b493fcaa847befdf06b431361d14f761e6f7fd7bc4a42ee6c37edae12f1df8b531
+Description: إزاله الاعلانات من التطبيق
+Name: Yacine TV 1.1
+Author: yousef alhadidi
+Icon: https://i.imgur.com/rkanV9K.jpg
 
