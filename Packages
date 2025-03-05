@@ -1,6 +1,6 @@
 Package: com.yousefalhadidi.animecloud
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 160
@@ -14,11 +14,10 @@ SHA512: 3866e57eb907119d5e1e3c0408668b5298b6cb70d5cdf9288a8dcf9d64f60b487ce46f05
 Description: اضافه زر التحميل وحذف الاعلانات
 Name: anime cloud
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.jokersport
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 916
@@ -32,11 +31,10 @@ SHA512: 03c3775afa27f9ce7cd060018fb4cab9687ca449bf4549d226fe97e24faca627db8cec4f
 Description: إزاله الاعلانات من التطبيق
 Name: jokersport
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.lahomlna
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 916
@@ -50,11 +48,10 @@ SHA512: 536ed51c421feb78f22d9f28477d7f11a3c95c78ebe9890d91f1cf8ca691e2e5b29a9af7
 Description: إزالة الاعلانات من تطبيق صكة
 Name: lahom & lna
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.numberbook
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 916
@@ -68,11 +65,10 @@ SHA512: 857fe5b75a2c894b860f014fe429acefc9125d279e9ef0e4d48aec6e645e904056eae22a
 Description: إزاله الاعلانات من التطبيق
 Name: number book
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.photoleap
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 932
@@ -86,11 +82,10 @@ SHA512: 9fa83718801aeb274e8929a7a16213e67195a058630e6c8607cc303a19f505dde6e8e008
 Description: فتح مميزات التطبيق وازاله الاعلانات
 Name: Photoleap
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.speedmeter
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 916
@@ -104,29 +99,10 @@ SHA512: 4fa57b0fbd2242413371c88fb9a13269521648eed7f3a1d6c396cd85b1ba4bbfdc56ca23
 Description: إزاله الاعلانات من التطبيق
 Name: speedmeter
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
-
-Package: com.yousefalhadidi.sportelo
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: xif66x
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs//com.yousefalhadidi.sportelo.deb
-Size: 8280
-MD5sum: 454c2df7ce236b1064716f98f1007444
-SHA1: 438ca1a530fc8026249e5ffb7b83d670c33958f5
-SHA256: 07506b8490b0390dda4fe88eca784f58f3913c0a02a925db6a8ca97b11d5fcfe
-SHA512: 299afc53b710e3ce87d25ccf00a5246d73b958b90c51f431fabca14309a9fb0d31bd76f3baecd97fbe9fc722a2172f654f191b30090db5e45dae8e88dd8c440b
-Description: إزاله الاعلانات من التطبيق
-Name: sportelo
-Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.vpnsuperunlimitedproxy
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 940
@@ -140,11 +116,10 @@ SHA512: 0d70b2e15384b6686305485ba5165ba163d311bd933a6009602f24656a25adc7d7335efb
 Description: إزاله الاعلانات من التطبيق
 Name: VPN – Super Unlimited Proxy
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.yacinetv
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 156
@@ -158,11 +133,10 @@ SHA512: 5c56caa6c43f69d8839fa7496714a87dd19b894a1ae2ea761d4daf99cac8c1379629d209
 Description: حذف الاعلانات من التطبيق
 Name: YacineTV
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
 Package: com.yousefalhadidi.yacinetv11
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.0+debug
 Section: Tweaks
 Maintainer: xif66x
 Installed-Size: 916
@@ -176,5 +150,4 @@ SHA512: 84ba70e463397ff509f77122f1aff06f49b4b0aa513e4cb55cb76b93da7f98b493fcaa84
 Description: إزاله الاعلانات من التطبيق
 Name: Yacine TV 1.1
 Author: yousef alhadidi
-Icon: https://i.imgur.com/rkanV9K.jpg
 
