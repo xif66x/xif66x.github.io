@@ -1,3 +1,21 @@
+Package: com.eliassfeir.notisound
+Architecture: iphoneos-arm64
+Version: 2.4
+Section: Tweaks
+Maintainer: EliasSfeir
+Installed-Size: 2796
+Depends: com.spark.libsparkapplist
+Filename: ./debs//com.eliassfeir.notisound.deb
+Size: 2335592
+MD5sum: 67b55859c9b8c377a867c51765440634
+SHA1: 107d3c9b518f181bfece58503cde805a0c73833e
+SHA256: ba0fd34cd73181d0691463c412e0786a1df1b092b7e4bfe82a378862c639992d
+SHA512: 175cd989b5dc3a1a45f429160bfbe3843ab34a610dc972d99cb0cf5aab8a04818981a3521f689774c635b03c5a585d49f4fb1cbcadfdd9711f379fc85c454ccb
+Description: An awesome MobileSubstrate tweak!
+Name: NotiSound
+Author: EliasSfeir
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
 Package: com.yousefalhadidi.animecloud
 Architecture: iphoneos-arm64
 Version: 1.0+debug
@@ -32,8 +50,6 @@ SHA512: 03c3775afa27f9ce7cd060018fb4cab9687ca449bf4549d226fe97e24faca627db8cec4f
 Description: إزاله الاعلانات من التطبيق
 Name: jokersport
 Author: yousef alhadidi
-https://i.imgur.com/s0X8JHc.jpg
-https://i.imgur.com/s0X8JHc.jpg
 Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.lahomlna
@@ -52,8 +68,6 @@ SHA512: 536ed51c421feb78f22d9f28477d7f11a3c95c78ebe9890d91f1cf8ca691e2e5b29a9af7
 Description: إزالة الاعلانات من تطبيق صكة
 Name: lahom & lna
 Author: yousef alhadidi
-https://i.imgur.com/s0X8JHc.jpg
-https://i.imgur.com/s0X8JHc.jpg
 Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.numberbook
@@ -90,8 +104,6 @@ SHA512: 9fa83718801aeb274e8929a7a16213e67195a058630e6c8607cc303a19f505dde6e8e008
 Description: فتح مميزات التطبيق وازاله الاعلانات
 Name: Photoleap
 Author: yousef alhadidi
-https://i.imgur.com/s0X8JHc.jpg
-https://i.imgur.com/s0X8JHc.jpg
 Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.speedmeter
@@ -128,8 +140,6 @@ SHA512: 299afc53b710e3ce87d25ccf00a5246d73b958b90c51f431fabca14309a9fb0d31bd76f3
 Description: إزاله الاعلانات من التطبيق
 Name: sportelo
 Author: yousef alhadidi
-https://i.imgur.com/s0X8JHc.jpg
-https://i.imgur.com/s0X8JHc.jpg
 Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.vpnsuperunlimitedproxy
