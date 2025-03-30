@@ -1,0 +1,196 @@
+Package: com.cachetes.col0rant
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Themes
+Maintainer: Cachetes <markosg26@gmail.com>
+Filename: ./debs//com.cachetes.col0rant.deb
+Size: 7527192
+MD5sum: b1cc4b625969c334517139f8d8c9c6ad
+SHA1: 73229b65cdee5821299d5c5824323cbe616e85e0
+SHA256: e030c592493b3755d9e40ed57aa72e004900ae6f710288710694d9e10bb8b7fe
+SHA512: 6faa69a37b7e10f632732531521eefe96adaf011afc5fe7f8223fa82a7ceef7e2e63c59f24164eb2d97ad143074648d98cd21e0bf1611f006865845eb1be071f
+Description: Colorful theme for iOS
+Name: Col0rant
+Author: Cachetes <markosg26@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.eliassfeir.notisound
+Architecture: iphoneos-arm64
+Version: 2.4
+Section: Tweaks
+Maintainer: EliasSfeir
+Installed-Size: 2796
+Depends: com.spark.libsparkapplist
+Filename: ./debs//com.eliassfeir.notisound.deb
+Size: 2335592
+MD5sum: 67b55859c9b8c377a867c51765440634
+SHA1: 107d3c9b518f181bfece58503cde805a0c73833e
+SHA256: ba0fd34cd73181d0691463c412e0786a1df1b092b7e4bfe82a378862c639992d
+SHA512: 175cd989b5dc3a1a45f429160bfbe3843ab34a610dc972d99cb0cf5aab8a04818981a3521f689774c635b03c5a585d49f4fb1cbcadfdd9711f379fc85c454ccb
+Description: An awesome MobileSubstrate tweak!
+Name: NotiSound
+Author: EliasSfeir
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.animecloud
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.animecloud.deb
+Size: 8802
+MD5sum: 10f70cd3a4a4b67bfa795a985cb7f091
+SHA1: c33fc9c1a9a4cda705abdb1547ad297929284e56
+SHA256: 4a974083a68a6be492efd0a39e03bc9ce6cd8c1376aa110620bc62c104c6ba04
+SHA512: 3866e57eb907119d5e1e3c0408668b5298b6cb70d5cdf9288a8dcf9d64f60b487ce46f05dc1b7a49639f2c4fa0c134f1554b50e5e3eeee662a58f1f4f9609b8b
+Description: اضافه زر التحميل وحذف الاعلانات
+Name: anime cloud
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.jokersport
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.jokersport.deb
+Size: 164564
+MD5sum: 137e2357b30d94d220715b231ac77ea0
+SHA1: 2a42864174438a5701a9ad0a9ccb0bde9bdf1bd2
+SHA256: eec59842d51e0d7e8446f8fb3e4b95edee5d5f0ed5b5681c24591659e2dd5b4d
+SHA512: 03c3775afa27f9ce7cd060018fb4cab9687ca449bf4549d226fe97e24faca627db8cec4ffadf3ff945ddc767ca416bbc9266724ac95b17758df398c24c772355
+Description: إزاله الاعلانات من التطبيق
+Name: jokersport
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.lahomlna
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.lahomlna.deb
+Size: 164780
+MD5sum: 8f1d44bb8262f99a82f8f94c3ddf9fa6
+SHA1: b76823750dee3e8701236cbda61d0c2fca2a5824
+SHA256: d0a8fd2f5b5d5189a564c2d6fd8898194ba4d3efb121583ffe0bf6707a66256f
+SHA512: 536ed51c421feb78f22d9f28477d7f11a3c95c78ebe9890d91f1cf8ca691e2e5b29a9af7e054de2e0f5d6b86798d00350444731690a60bb153f6977b68b2098b
+Description: إزالة الاعلانات من تطبيق صكة
+Name: lahom & lna
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.numberbook
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.numberbook.deb
+Size: 165418
+MD5sum: b77cee5cc4757fa7479b8c4aac0b363a
+SHA1: f316caed0fb46eee4563cbbc2f9c9e4c4fde8aec
+SHA256: 55b1618e6ef6cbd8f96e76d70b902fca611a8b25603c51d9a06abc75773dfeb3
+SHA512: 857fe5b75a2c894b860f014fe429acefc9125d279e9ef0e4d48aec6e645e904056eae22a174a614f8a0d7967454821e3a5051443758990b697122c672916b62d
+Description: إزاله الاعلانات من التطبيق
+Name: number book
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.photoleap
+Architecture: iphoneos-arm64
+Version: 1+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <https://www.instagram.com/xif66x>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.photoleap.deb
+Size: 8606
+MD5sum: f37bf101a5694be8383a636b40413364
+SHA1: 8682fa179794715bbdd16dcbaf9ebbb6ccc82e8f
+SHA256: e2866cfd4bc06d586ffb8326966917a1c36b8dfed8a48bd0e546cd2b6556e561
+SHA512: df71707338384243e6d1c3397dc1b2f81bf5c6461f549966a69fa903a984f4792cec8c53aaa546c676ff905d3201b2644310c76c19f8a03f61803133476a9c30
+Description: no ads
+Name: Photoleap
+Author: yousef alhadidi <https://www.instagram.com/xif66x>
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.speedmeter
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.speedmeter.deb
+Size: 164744
+MD5sum: 12c9841db9deee5e3ec339f153989c4a
+SHA1: 279e4eb02466fd6677fa366cb6bf53812b921641
+SHA256: 66dfd5401bdd9952635e762d60f36df02261c4f7d17da75aa5ad57a7ef0716c0
+SHA512: 4fa57b0fbd2242413371c88fb9a13269521648eed7f3a1d6c396cd85b1ba4bbfdc56ca2394c4159430a317ed8d661ba815d28739f423b5befb4721fd6cc1da6f
+Description: إزاله الاعلانات من التطبيق
+Name: speedmeter
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.sportelo
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.sportelo.deb
+Size: 8280
+MD5sum: 454c2df7ce236b1064716f98f1007444
+SHA1: 438ca1a530fc8026249e5ffb7b83d670c33958f5
+SHA256: 07506b8490b0390dda4fe88eca784f58f3913c0a02a925db6a8ca97b11d5fcfe
+SHA512: 299afc53b710e3ce87d25ccf00a5246d73b958b90c51f431fabca14309a9fb0d31bd76f3baecd97fbe9fc722a2172f654f191b30090db5e45dae8e88dd8c440b
+Description: إزاله الاعلانات من التطبيق
+Name: sportelo
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.yacinetv
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.yacinetv.deb
+Size: 8174
+MD5sum: d401515018f31ea355475e32e990a7ef
+SHA1: b2012b34507da8364a99e8744bf72598d6ccc983
+SHA256: 01fe16dc47c8fa16fabb13189ba5a9b967598b665d441457d07910611ed2d0b9
+SHA512: 5c56caa6c43f69d8839fa7496714a87dd19b894a1ae2ea761d4daf99cac8c1379629d209d51a7ddb7ca812f6416eefd2dd9fd6ab319d1c7013246341dc1fb670
+Description: حذف الاعلانات من التطبيق
+Name: YacineTV
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.yacinetv11
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.yacinetv11.deb
+Size: 165332
+MD5sum: 53e2f4c1cce54ad1e4612bc731621222
+SHA1: c0e878d93f41a88be2a697b521995f954c6fe3e7
+SHA256: 78ad67adee2a20f1ff54d12e29d550fe3e98f3f5c2d842feba1e7d327ed60d01
+SHA512: 84ba70e463397ff509f77122f1aff06f49b4b0aa513e4cb55cb76b93da7f98b493fcaa847befdf06b431361d14f761e6f7fd7bc4a42ee6c37edae12f1df8b531
+Description: إزاله الاعلانات من التطبيق
+Name: Yacine TV 1.1
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
