@@ -1,19 +1,3 @@
-Package: com.0xkuj.instantalbum
-Architecture: iphoneos-arm64
-Version: 1.5
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 1276
-Filename: ./debs//com.0xkuj.instantalbum.deb
-Size: 700712
-MD5sum: 15805f4da70da05f021abae636dec61a
-SHA1: 76a7135b0b137397fbd6af45f139523f708d0f48
-SHA256: a0b0cebcde12adfe5b5dd1a117d1980b3761523b0a45a38f3d8395c1e921355f
-SHA512: f91b08418d9a5c2e282a092e95a824e460dec93abaf75eb4b5462de1cde7244c101a53d9da3b22e806a3849d2231c22cde34f855fa69c9c04ed8cc10b048add6
-Description: Your documents in one place
-Name: Docbox
-Author: 0xkuj
-
 Package: com.ali.aimpro
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -31,6 +15,7 @@ SHA512: 13d5ac138176f135e8f2914f19a3ade8d011633431b16f1cb566f44a9b376fb4399789c7
 Description: iOS 16 Style Time & Date Lockscreen
 Name: AIM Pro
 Author: alimaulana
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.anthopak.appaze3
 Architecture: iphoneos-arm64
@@ -68,6 +53,7 @@ SHA512: 6dc0969bc5505e35e3bf57db4b413a3d36112b43f27ef0529be69e97333e35a681bb3828
 Description: iOS with a hint of MacOS
 Name: iOSX
 Author: Bank5ia
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.bossgfx.elysian
 Architecture: iphoneos-arm
@@ -83,6 +69,7 @@ SHA512: 7fec5411f6f5be07894fcd4d8ddc68fd9adb38d178ec2f09654cefad65e87381c1f43d6a
 Description: Beautiful, creative & an exceedingly delightful iOS theme
 Name: Elysian
 Author: Bossgfx
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.cachetes.col0rant
 Architecture: iphoneos-arm64
@@ -98,6 +85,7 @@ SHA512: 6faa69a37b7e10f632732531521eefe96adaf011afc5fe7f8223fa82a7ceef7e2e63c59f
 Description: Colorful theme for iOS
 Name: Col0rant
 Author: Cachetes <markosg26@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.eliassfeir.notisound
 Architecture: iphoneos-arm64
@@ -115,6 +103,7 @@ SHA512: 175cd989b5dc3a1a45f429160bfbe3843ab34a610dc972d99cb0cf5aab8a04818981a352
 Description: An awesome MobileSubstrate tweak!
 Name: NotiSound
 Author: EliasSfeir
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.ibagraphics.Elusive
 Architecture: iphoneos-arm64
@@ -130,6 +119,7 @@ SHA512: b6a1464760d08a0deb45e212d8310b32cd6b3764e1a6b906615df0794587466435a8b4b8
 Description: A marvelous & vibrant IOS theme!
 Name: Elusive
 Author: BeBarhoum
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.justnewdesigns.dove
 Architecture: iphoneos-arm64
@@ -146,6 +136,7 @@ SHA512: f492d0de3da0b91bc7da5d82e18871b2c12e48d00192edf2f34d2a24c864670d11f10131
 Description: A Beautiful icons with perfect color combinations!
 Name: dove
 Author: JustNewDesigns
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.leftyfl1p.carbridge13
 Architecture: iphoneos-arm
@@ -166,6 +157,7 @@ Tag: cydia::commercial
 Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.theprestigext.peekdark
 Architecture: iphoneos-arm
@@ -182,6 +174,7 @@ SHA512: 2a1e5771d903ae6837b4a333a82aa16a77805fa02651eda29987d2965ba7b9c8739ebd0c
 Description: Peek Dark for iOS
 Name: Peek Dark
 Author: XT <superveloce2@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.theprestigext.raspberry
 Architecture: iphoneos-arm
@@ -198,6 +191,7 @@ SHA512: 98bb25315b7d515a7902c52f73fe56763274d91f0c431da8f1c78817cc8f18e37ec0dae4
 Description: Vibrant Gradients for iOS
 Name: Raspberry
 Author: XT <superveloce2@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.animecloud
 Architecture: iphoneos-arm64
@@ -215,6 +209,7 @@ SHA512: 3866e57eb907119d5e1e3c0408668b5298b6cb70d5cdf9288a8dcf9d64f60b487ce46f05
 Description: اضافه زر التحميل وحذف الاعلانات
 Name: anime cloud
 Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.jokersport
 Architecture: iphoneos-arm64
@@ -232,6 +227,7 @@ SHA512: 03c3775afa27f9ce7cd060018fb4cab9687ca449bf4549d226fe97e24faca627db8cec4f
 Description: إزاله الاعلانات من التطبيق
 Name: jokersport
 Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.lahomlna
 Architecture: iphoneos-arm64
@@ -249,6 +245,7 @@ SHA512: 536ed51c421feb78f22d9f28477d7f11a3c95c78ebe9890d91f1cf8ca691e2e5b29a9af7
 Description: إزالة الاعلانات من تطبيق صكة
 Name: lahom & lna
 Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.numberbook
 Architecture: iphoneos-arm64
@@ -266,6 +263,7 @@ SHA512: 857fe5b75a2c894b860f014fe429acefc9125d279e9ef0e4d48aec6e645e904056eae22a
 Description: إزاله الاعلانات من التطبيق
 Name: number book
 Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.photoleap
 Architecture: iphoneos-arm64
@@ -283,6 +281,7 @@ SHA512: df71707338384243e6d1c3397dc1b2f81bf5c6461f549966a69fa903a984f4792cec8c53
 Description: no ads
 Name: Photoleap
 Author: yousef alhadidi <https://www.instagram.com/xif66x>
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.speedmeter
 Architecture: iphoneos-arm64
@@ -300,6 +299,7 @@ SHA512: 4fa57b0fbd2242413371c88fb9a13269521648eed7f3a1d6c396cd85b1ba4bbfdc56ca23
 Description: إزاله الاعلانات من التطبيق
 Name: speedmeter
 Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.sportelo
 Architecture: iphoneos-arm64
@@ -317,6 +317,7 @@ SHA512: 299afc53b710e3ce87d25ccf00a5246d73b958b90c51f431fabca14309a9fb0d31bd76f3
 Description: إزاله الاعلانات من التطبيق
 Name: sportelo
 Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.yacinetv
 Architecture: iphoneos-arm64
@@ -334,6 +335,7 @@ SHA512: 5c56caa6c43f69d8839fa7496714a87dd19b894a1ae2ea761d4daf99cac8c1379629d209
 Description: حذف الاعلانات من التطبيق
 Name: YacineTV
 Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: com.yousefalhadidi.yacinetv11
 Architecture: iphoneos-arm64
@@ -351,6 +353,7 @@ SHA512: 84ba70e463397ff509f77122f1aff06f49b4b0aa513e4cb55cb76b93da7f98b493fcaa84
 Description: إزاله الاعلانات من التطبيق
 Name: Yacine TV 1.1
 Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: wiki.qaq.writenow
 Architecture: iphoneos-arm64
@@ -368,6 +371,7 @@ SHA512: a0e20ee5f950ddc13172527c01441851d2032ffd7e40ac7dd41f29183409351fc6fc4a02
 Description: AI tool within your hands.
 Name: Write Now
 Author: Lessica <82flex@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
 
 Package: works.alo.doublebubble-rootless
 Architecture: iphoneos-arm64
