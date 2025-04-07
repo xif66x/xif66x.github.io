@@ -17,26 +17,7 @@ Name: AIM Pro
 Author: alimaulana
 Icon: https://i.imgur.com/s0X8JHc.jpg
 
-Package: com.anthopak.appaze3
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Installed-Size: 1802
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
-Conflicts: com.anthopak.appaze, com.anthopak.appaze2
-Filename: ./debs//com.anthopak.appaze3.deb
-Size: 867076
-MD5sum: a830579f5c952a66beb59b0496dadf69
-SHA1: d866dec8f6fc35b7dbcf47b5b9827cc4ffb33151
-SHA256: 6c56f2270f756c6e8d72821c9b8838b82f6c8aec3780aa4861f3d25707f7274d
-SHA512: 1b0049e9564395bc8916326c713ad0cd78435efe7891fa7ae9dcd320679da257742c27015f5fa6d6d16a9f949bac631f9e42879ee3ed3047923c5a28a9524092
-Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: AnthoPak <anthopakdev@gmail.com>
-Name: Appaze 3
-Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
-Depiction: https://chariz.com/buy/appaze3
+
 
 Package: com.bank5ia.iosx
 Architecture: iphoneos-arm
