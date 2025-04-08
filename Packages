@@ -352,6 +352,24 @@ Name: IGArabic
 Author: aJBboCydia
 Icon: https://i.imgur.com/s0X8JHc.jpg
 
+Package: net.xif66x.igarabic
+Architecture: iphoneos-arm64
+Version: 2+debug
+Section: Tweaks
+Maintainer: you
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//net.xif66x.igarabic.deb
+Size: 1850
+MD5sum: 97f137d654362f5700b17f11ecf343c7
+SHA1: 08e7027e17066d459cf3eb8f191e0e08a2797b3e
+SHA256: f415377507f44634ce4a94a112ebbde235315d348eb662cc2809ce8d94fde427
+SHA512: 5cbaccd10ef17c8d87346856f1a0a5c4463a0c22935798e5280f9c08b882ea5c902be45cd2faf81436fff98fdf79c77e79dbb636c67d8efc365716cdccbec38c
+Description: تعريب تطبيق الانستا
+Name: IGArabic
+Author: you
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
 Package: wiki.qaq.writenow
 Architecture: iphoneos-arm64
 Version: 2.0
