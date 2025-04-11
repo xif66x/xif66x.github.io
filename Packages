@@ -1,3 +1,22 @@
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Localizations
+Maintainer: ipapplus
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs//Instagram(ArabicLocalized).deb
+Size: 49072
+MD5sum: b249abba1a06fbddba335a367c04fcd3
+SHA1: 6716079eedc39a7d2cc25d1035ea7e95c97a179c
+SHA256: 7ef922020523005468ff394ea84f5c3551f680aeebcab312ddf2f812fd857951
+SHA512: 108359692cba7e04aab4d5fe8508893e7070ba6ccd9310d63abcc8f562601b249b50adf06ece547c2628b7e8549bc9786a1ecf0e1b82033ba9f384bfe439f26c
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Name: Instagram (Arabic Localized)
+Author: ipapplus
+Icon: https://i.imgur.com/ffrKJBH.jpeg
+Header: https://i.imgur.com/xAIYmyc.jpeg
+
 Package: com.ali.aimpro
 Architecture: iphoneos-arm64
 Version: 1.1
