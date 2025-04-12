@@ -1,0 +1,395 @@
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Localizations
+Maintainer: ipapplus
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs//Instagram(ArabicLocalized).deb
+Size: 49072
+MD5sum: b249abba1a06fbddba335a367c04fcd3
+SHA1: 6716079eedc39a7d2cc25d1035ea7e95c97a179c
+SHA256: 7ef922020523005468ff394ea84f5c3551f680aeebcab312ddf2f812fd857951
+SHA512: 108359692cba7e04aab4d5fe8508893e7070ba6ccd9310d63abcc8f562601b249b50adf06ece547c2628b7e8549bc9786a1ecf0e1b82033ba9f384bfe439f26c
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Name: Instagram (Arabic Localized)
+Author: ipapplus
+Header: https://i.imgur.com/xAIYmyc.jpeg
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.ali.aimpro
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: alimaulana
+Installed-Size: 4960
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs//com.ali.aimpro_1.1_iphoneos-arm64.deb
+Size: 2320644
+MD5sum: e6c89746360ce124d8b1ef780a43b6bb
+SHA1: 99034e6c145860605fca250cd5473728fa27a7a3
+SHA256: b1da21422e80eb1132f645c319e012919d0f392f447f17c08de3e49c0aab1cef
+SHA512: 13d5ac138176f135e8f2914f19a3ade8d011633431b16f1cb566f44a9b376fb4399789c7bd29b6a93b2a3be537508e2161436937e0e0611ca540bf760de06b16
+Description: iOS 16 Style Time & Date Lockscreen
+Name: AIM Pro
+Author: alimaulana
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.bank5ia.iosx
+Architecture: iphoneos-arm
+Version: 0.6.1
+Section: Themes
+Maintainer: Bank5ia
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Filename: ./debs//com.bank5ia.iosx_0.6.1_iphoneos-arm.deb
+Size: 8223792
+MD5sum: 8f52c0786b21d5b378be4c6acc62ddaa
+SHA1: a298ff5540ed49a93935391724788742c8299424
+SHA256: 5d40d9d72a7fb948dc53c7d2c126cad04ec2d92555a349df653c4812db081d0b
+SHA512: 6dc0969bc5505e35e3bf57db4b413a3d36112b43f27ef0529be69e97333e35a681bb382869e9cd2bd90cd23331c969702b15a19b40cbd480ca8c27ae129d24a9
+Description: iOS with a hint of MacOS
+Name: iOSX
+Author: Bank5ia
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.bossgfx.elysian
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Themes
+Maintainer: Bossgfx
+Filename: ./debs//com.bossgfx.elysian_1.4.1_iphoneos-arm.deb
+Size: 31476704
+MD5sum: e90f1cb009cd717cb5b8791db0b741ab
+SHA1: c986d79a97dc592bdf19809aae71b4c1f3d20f14
+SHA256: e0e9af24cd4ad55f0c0beddc210b150fa8c72694edf048e025ec21096b153288
+SHA512: 7fec5411f6f5be07894fcd4d8ddc68fd9adb38d178ec2f09654cefad65e87381c1f43d6a71af3490b9578b95efa2f776002f817cf6bfe16fd7b080ada07ae935
+Description: Beautiful, creative & an exceedingly delightful iOS theme
+Name: Elysian
+Author: Bossgfx
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.cachetes.col0rant
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Themes
+Maintainer: Cachetes <markosg26@gmail.com>
+Filename: ./debs//com.cachetes.col0rant_1.1_iphoneos-arm64.deb
+Size: 7527192
+MD5sum: b1cc4b625969c334517139f8d8c9c6ad
+SHA1: 73229b65cdee5821299d5c5824323cbe616e85e0
+SHA256: e030c592493b3755d9e40ed57aa72e004900ae6f710288710694d9e10bb8b7fe
+SHA512: 6faa69a37b7e10f632732531521eefe96adaf011afc5fe7f8223fa82a7ceef7e2e63c59f24164eb2d97ad143074648d98cd21e0bf1611f006865845eb1be071f
+Description: Colorful theme for iOS
+Name: Col0rant
+Author: Cachetes <markosg26@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.eliassfeir.notisound
+Architecture: iphoneos-arm64
+Version: 2.4
+Section: Tweaks
+Maintainer: EliasSfeir
+Installed-Size: 2796
+Depends: com.spark.libsparkapplist
+Filename: ./debs//com.eliassfeir.notisound_2.4_iphoneos-arm64.deb
+Size: 2335592
+MD5sum: 67b55859c9b8c377a867c51765440634
+SHA1: 107d3c9b518f181bfece58503cde805a0c73833e
+SHA256: ba0fd34cd73181d0691463c412e0786a1df1b092b7e4bfe82a378862c639992d
+SHA512: 175cd989b5dc3a1a45f429160bfbe3843ab34a610dc972d99cb0cf5aab8a04818981a3521f689774c635b03c5a585d49f4fb1cbcadfdd9711f379fc85c454ccb
+Description: An awesome MobileSubstrate tweak!
+Name: NotiSound
+Author: EliasSfeir
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.ibagraphics.Elusive
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Themes
+Maintainer: BeBarhoum
+Filename: ./debs//com.ibagraphics.Elusive_2.1_iphoneos-arm64.deb
+Size: 14568944
+MD5sum: 7d1039898bb20689e31e0d1cbc73ba0f
+SHA1: 494d0976afd1f76fc78799d86c099554be63a9c0
+SHA256: 138ed2177036e089b7e735020a10e1ae1451176dd5531218d78aeba11f2eb183
+SHA512: b6a1464760d08a0deb45e212d8310b32cd6b3764e1a6b906615df0794587466435a8b4b8c4bc1f6562abe73317278c7b73c1d5a40dc9a7f19317bcf0b936ef43
+Description: A marvelous & vibrant IOS theme!
+Name: Elusive
+Author: BeBarhoum
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.justnewdesigns.dove
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Junaid Maknojiya
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs//com.justnewdesigns.dove_1.0_iphoneos-arm64.deb
+Size: 9257284
+MD5sum: c4a9ad170e4d722f0a3a82812feee606
+SHA1: d6bbc87cfb6f362d044f07d4733d44cf8491492b
+SHA256: 582ad0dd3676222e7a5de001c0dd3f4d6273a857010de55f7ffc35940bc13974
+SHA512: f492d0de3da0b91bc7da5d82e18871b2c12e48d00192edf2f34d2a24c864670d11f10131a499cdfee9127169abde5b8e4864dc5e190ec0a2f8da4732d3b39bf1
+Description: A Beautiful icons with perfect color combinations!
+Name: dove
+Author: JustNewDesigns
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.leftyfl1p.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.14
+Section: Tweaks
+Maintainer: leftyfl1p
+Installed-Size: 7344
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs//com.leftyfl1p.carbridge13_2.0.14_iphoneos-arm.deb
+Size: 434220
+MD5sum: 7affd6504d4386dc9e99b28dd5a99750
+SHA1: 3a002806f112ba1203964c64ee1487febac2dfc0
+SHA256: 91acf43f4f7b0dc0c8aa5a04860d70a7b31032c18eb08258a67c20ed4bdbb4aa
+SHA512: 905c8ca1da140e090aaa605825d5edf8c4a8e39d8b8682c4492dbea3ef6d481e8716e82be1d9e0d3b052c2019dcafe3dfbc5f5220991f4e961badcca7d91309c
+Description: Open any app in CarPlay!
+Tag: cydia::commercial
+Name: CarBridge
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.theprestigext.peekdark
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Themes
+Maintainer: XT
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Filename: ./debs//com.theprestigext.peekdark_2.3_iphoneos-arm.deb
+Size: 5969366
+MD5sum: 576d00c4883981db282c3cd37bbd550b
+SHA1: 464dc9eaab7752abe6840127235dbec35482393c
+SHA256: 220ebea51b23ed9b3219162f3e937901475d91f6be538dd749fe9d907d8d0e08
+SHA512: 2a1e5771d903ae6837b4a333a82aa16a77805fa02651eda29987d2965ba7b9c8739ebd0c5f41c793d6e129c62bce0b6df09c08259763f1ad45fc21754a9f4d70
+Description: Peek Dark for iOS
+Name: Peek Dark
+Author: XT <superveloce2@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.theprestigext.raspberry
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Themes
+Maintainer: XT
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Filename: ./debs//com.theprestigext.raspberry_2.2_iphoneos-arm.deb
+Size: 49647394
+MD5sum: 8cc81e2d2482437a9160922c8c52c226
+SHA1: 0de6b56662eb19da40a93bf1f5e5077e280e6577
+SHA256: 3971cb61aa3a498648f122132e32ca5a308820ad2c5e781d0c601ad395725d95
+SHA512: 98bb25315b7d515a7902c52f73fe56763274d91f0c431da8f1c78817cc8f18e37ec0dae4e06a4e8a718d749fbb2bb3fd0df9e9af96e43f4ec2bd9dfc7aeffe0e
+Description: Vibrant Gradients for iOS
+Name: Raspberry
+Author: XT <superveloce2@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.animecloud
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.animecloud_1.0+debug_iphoneos-arm64.deb
+Size: 8802
+MD5sum: 10f70cd3a4a4b67bfa795a985cb7f091
+SHA1: c33fc9c1a9a4cda705abdb1547ad297929284e56
+SHA256: 4a974083a68a6be492efd0a39e03bc9ce6cd8c1376aa110620bc62c104c6ba04
+SHA512: 3866e57eb907119d5e1e3c0408668b5298b6cb70d5cdf9288a8dcf9d64f60b487ce46f05dc1b7a49639f2c4fa0c134f1554b50e5e3eeee662a58f1f4f9609b8b
+Description: اضافه زر التحميل وحذف الاعلانات
+Name: anime cloud
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.jokersport
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.jokersport_1.0+debug_iphoneos-arm64.deb
+Size: 164564
+MD5sum: 137e2357b30d94d220715b231ac77ea0
+SHA1: 2a42864174438a5701a9ad0a9ccb0bde9bdf1bd2
+SHA256: eec59842d51e0d7e8446f8fb3e4b95edee5d5f0ed5b5681c24591659e2dd5b4d
+SHA512: 03c3775afa27f9ce7cd060018fb4cab9687ca449bf4549d226fe97e24faca627db8cec4ffadf3ff945ddc767ca416bbc9266724ac95b17758df398c24c772355
+Description: إزاله الاعلانات من التطبيق
+Name: jokersport
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.lahomlna
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.lahomlna_1.0+debug_iphoneos-arm64.deb
+Size: 164780
+MD5sum: 8f1d44bb8262f99a82f8f94c3ddf9fa6
+SHA1: b76823750dee3e8701236cbda61d0c2fca2a5824
+SHA256: d0a8fd2f5b5d5189a564c2d6fd8898194ba4d3efb121583ffe0bf6707a66256f
+SHA512: 536ed51c421feb78f22d9f28477d7f11a3c95c78ebe9890d91f1cf8ca691e2e5b29a9af7e054de2e0f5d6b86798d00350444731690a60bb153f6977b68b2098b
+Description: إزالة الاعلانات من تطبيق صكة
+Name: lahom & lna
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.numberbook
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.numberbook_1.0+debug_iphoneos-arm64.deb
+Size: 165418
+MD5sum: b77cee5cc4757fa7479b8c4aac0b363a
+SHA1: f316caed0fb46eee4563cbbc2f9c9e4c4fde8aec
+SHA256: 55b1618e6ef6cbd8f96e76d70b902fca611a8b25603c51d9a06abc75773dfeb3
+SHA512: 857fe5b75a2c894b860f014fe429acefc9125d279e9ef0e4d48aec6e645e904056eae22a174a614f8a0d7967454821e3a5051443758990b697122c672916b62d
+Description: إزاله الاعلانات من التطبيق
+Name: number book
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.photoleap
+Architecture: iphoneos-arm64
+Version: 1+debug
+Section: Tweaks
+Maintainer: yousef alhadidi <https://www.instagram.com/xif66x>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.photoleap_1+debug_iphoneos-arm64.deb
+Size: 8606
+MD5sum: f37bf101a5694be8383a636b40413364
+SHA1: 8682fa179794715bbdd16dcbaf9ebbb6ccc82e8f
+SHA256: e2866cfd4bc06d586ffb8326966917a1c36b8dfed8a48bd0e546cd2b6556e561
+SHA512: df71707338384243e6d1c3397dc1b2f81bf5c6461f549966a69fa903a984f4792cec8c53aaa546c676ff905d3201b2644310c76c19f8a03f61803133476a9c30
+Description: no ads
+Name: Photoleap
+Author: yousef alhadidi <https://www.instagram.com/xif66x>
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.speedmeter
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.speedmeter_1.0+debug_iphoneos-arm64.deb
+Size: 164744
+MD5sum: 12c9841db9deee5e3ec339f153989c4a
+SHA1: 279e4eb02466fd6677fa366cb6bf53812b921641
+SHA256: 66dfd5401bdd9952635e762d60f36df02261c4f7d17da75aa5ad57a7ef0716c0
+SHA512: 4fa57b0fbd2242413371c88fb9a13269521648eed7f3a1d6c396cd85b1ba4bbfdc56ca2394c4159430a317ed8d661ba815d28739f423b5befb4721fd6cc1da6f
+Description: إزاله الاعلانات من التطبيق
+Name: speedmeter
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.sportelo
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.sportelo_1.0+debug_iphoneos-arm64.deb
+Size: 8280
+MD5sum: 454c2df7ce236b1064716f98f1007444
+SHA1: 438ca1a530fc8026249e5ffb7b83d670c33958f5
+SHA256: 07506b8490b0390dda4fe88eca784f58f3913c0a02a925db6a8ca97b11d5fcfe
+SHA512: 299afc53b710e3ce87d25ccf00a5246d73b958b90c51f431fabca14309a9fb0d31bd76f3baecd97fbe9fc722a2172f654f191b30090db5e45dae8e88dd8c440b
+Description: إزاله الاعلانات من التطبيق
+Name: sportelo
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.yacinetv11
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.yacinetv11_1.0+debug_iphoneos-arm64.deb
+Size: 165332
+MD5sum: 53e2f4c1cce54ad1e4612bc731621222
+SHA1: c0e878d93f41a88be2a697b521995f954c6fe3e7
+SHA256: 78ad67adee2a20f1ff54d12e29d550fe3e98f3f5c2d842feba1e7d327ed60d01
+SHA512: 84ba70e463397ff509f77122f1aff06f49b4b0aa513e4cb55cb76b93da7f98b493fcaa847befdf06b431361d14f761e6f7fd7bc4a42ee6c37edae12f1df8b531
+Description: إزاله الاعلانات من التطبيق
+Name: Yacine TV 1.1
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: com.yousefalhadidi.yacinetv
+Architecture: iphoneos-arm64
+Version: 1.0+debug
+Section: Tweaks
+Maintainer: xif66x
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs//com.yousefalhadidi.yacinetv_1.0+debug_iphoneos-arm64.deb
+Size: 8174
+MD5sum: d401515018f31ea355475e32e990a7ef
+SHA1: b2012b34507da8364a99e8744bf72598d6ccc983
+SHA256: 01fe16dc47c8fa16fabb13189ba5a9b967598b665d441457d07910611ed2d0b9
+SHA512: 5c56caa6c43f69d8839fa7496714a87dd19b894a1ae2ea761d4daf99cac8c1379629d209d51a7ddb7ca812f6416eefd2dd9fd6ab319d1c7013246341dc1fb670
+Description: حذف الاعلانات من التطبيق
+Name: YacineTV
+Author: yousef alhadidi
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: wiki.qaq.writenow
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 14964
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs//wiki.qaq.writenow_2.0_iphoneos-arm64.deb
+Size: 3223740
+MD5sum: 44bca44b4e510615b965f72ce6d2a612
+SHA1: c93045e0264c404e5ab61b68948d1ea576a4406e
+SHA256: 5e33d66809b6c56fd6362495dfe91f902c7078f2cfb8b73a7a73d8fa16a5e46d
+SHA512: a0e20ee5f950ddc13172527c01441851d2032ffd7e40ac7dd41f29183409351fc6fc4a02041ebcfe32d895c78ecbb518cd5482953fe91f001cc4537a0cfc58c8
+Description: AI tool within your hands.
+Name: Write Now
+Author: Lessica <82flex@gmail.com>
+Icon: https://i.imgur.com/s0X8JHc.jpg
+
+Package: works.alo.doublebubble-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes (Settings)
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=7.0)
+Filename: ./debs//works.alo.doublebubble-rootless_1.0_iphoneos-arm64.deb
+Size: 688408
+MD5sum: 871b2e9e7125c673b65d32741d5f309a
+SHA1: 11e7b4c8b8fa0b6c06bfb5cc69d84fc2dac02f6d
+SHA256: 9e76f9bb9abbde56ffd944c1ee0d4284a63781262459a3e76879f9dcee133f27
+SHA512: 224a79f5ea12f61f94a2993e6da72af858fbc876b04db0766f98ee2608cab9f4cfb7c525fba1e95023485471feb0112950f45b5de069e9610e37f756f74c78d2
+Homepage: https://alo.works/
+Description: Double the fun!
+Name: Double Bubble Settings (by Roo)
+Depiction: https://alo.works/depiction/web/works.alo.doublebubble-rootless.html
+SileoDepiction: https://alo.works/depiction/native/works.alo.doublebubble-rootless.json
+ModernDepiction: https://alo.works/depiction/native/works.alo.doublebubble-rootless.json
+Icon: https://alo.works/assets/works.alo.doublebubble-rootless/icon.png
+Tags: compatible_min::ios7.0, compatible_max::ios16.6.1
+Author: KennyRoo <bbscydia@gmail.com>
+
