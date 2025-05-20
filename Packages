@@ -1,0 +1,14 @@
+Package: wiki.qaq.writenow
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: wiki.qaq.writenow package for iOS
+Section: Tweaks
+Filename: ./debs/wiki.qaq.writenow_2.0_iphoneos-arm64.deb
+Size: 3223740
+Installed-Size: 3148
+MD5sum: 44bca44b4e510615b965f72ce6d2a612
+SHA1: c93045e0264c404e5ab61b68948d1ea576a4406e
+SHA256: 5e33d66809b6c56fd6362495dfe91f902c7078f2cfb8b73a7a73d8fa16a5e46d
+Name: wiki.qaq.writenow
+
