@@ -12,3 +12,17 @@ SHA1: c93045e0264c404e5ab61b68948d1ea576a4406e
 SHA256: 5e33d66809b6c56fd6362495dfe91f902c7078f2cfb8b73a7a73d8fa16a5e46d
 Name: wiki.qaq.writenow
 
+Package: com.ali.aimpro
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: com.ali.aimpro package for iOS
+Section: Tweaks
+Filename: ./debs/com.ali.aimpro_1.1_iphoneos-arm64.deb
+Size: 2320644
+Installed-Size: 2266
+MD5sum: e6c89746360ce124d8b1ef780a43b6bb
+SHA1: 99034e6c145860605fca250cd5473728fa27a7a3
+SHA256: b1da21422e80eb1132f645c319e012919d0f392f447f17c08de3e49c0aab1cef
+Name: com.ali.aimpro
+
