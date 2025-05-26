@@ -72,3 +72,18 @@ Name: com.yousefalhadidi.yacinetv
 Icon: https://raw.githubusercontent.com/xif66x/xif66x.github.io/main/icons/com.yousefalhadidi.yacinetv.png
 Header: https://raw.githubusercontent.com/xif66x/xif66x.github.io/main/headers/com.yousefalhadidi.yacinetv.png
 
+Package: com.yousefalhadidi.yacinetv11
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: إزالة الاعلانات من التطبيق
+Section: Tweaks
+Filename: ./debs/com.yousefalhadidi.yacinetv11_1.0+debug_iphoneos-arm64.deb
+Size: 165332
+Installed-Size: 161
+MD5sum: 53e2f4c1cce54ad1e4612bc731621222
+SHA1: c0e878d93f41a88be2a697b521995f954c6fe3e7
+SHA256: 78ad67adee2a20f1ff54d12e29d550fe3e98f3f5c2d842feba1e7d327ed60d01
+Name: com.yousefalhadidi.yacinetv11
+Icon: https://raw.githubusercontent.com/xif66x/xif66x.github.io/main/icons/com.yousefalhadidi.yacinetv11.png
+
