@@ -115,3 +115,17 @@ SHA1: c33fc9c1a9a4cda705abdb1547ad297929284e56
 SHA256: 4a974083a68a6be492efd0a39e03bc9ce6cd8c1376aa110620bc62c104c6ba04
 Name: com.yousefalhadidi.animecloud
 
+Package: com.me.iosx
+Version: 0.6.1
+Architecture: iphoneos-arm
+Maintainer: 
+Description: com.me.iosx package for iOS
+Section: Tweaks
+Filename: ./debs/com.bank5ia.iosx_0.6.1_iphoneos-arm.deb
+Size: 8223792
+Installed-Size: 8031
+MD5sum: 8f52c0786b21d5b378be4c6acc62ddaa
+SHA1: a298ff5540ed49a93935391724788742c8299424
+SHA256: 5d40d9d72a7fb948dc53c7d2c126cad04ec2d92555a349df653c4812db081d0b
+Name: com.me.iosx
+
