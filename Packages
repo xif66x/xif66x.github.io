@@ -129,3 +129,18 @@ SHA1: a298ff5540ed49a93935391724788742c8299424
 SHA256: 5d40d9d72a7fb948dc53c7d2c126cad04ec2d92555a349df653c4812db081d0b
 Name: com.me.iosx
 
+Package: WATranslator
+Version: 
+Architecture: iphoneos-arm
+Maintainer: 
+Description: WATranslator package for iOS
+Section: Tweaks
+Filename: ./debs/WATranslator_RootHide.deb
+Size: 27144
+Installed-Size: 26
+MD5sum: 39fafd5b9b8b72278228fd26cc0bb27c
+SHA1: c1f42885a40a0cf0a06af7b1cc4aeff19a70dfed
+SHA256: 4ff20576a9662074685ffbe20cb4b8d0f6969f8c148495f5ba96893e721632a7
+Name: WATranslator
+Header: https://raw.githubusercontent.com/xif66x/xif66x.github.io/main/headers/WATranslator.png
+
