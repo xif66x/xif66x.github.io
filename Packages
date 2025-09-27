@@ -144,3 +144,17 @@ SHA256: 4ff20576a9662074685ffbe20cb4b8d0f6969f8c148495f5ba96893e721632a7
 Name: WATranslator
 Icon: https://raw.githubusercontent.com/xif66x/xif66x.github.io/main/icons/WATranslator.png
 
+Package: lowerinstall.deb
+Version: 
+Architecture: iphoneos-arm
+Maintainer: 
+Description: lowerinstall.deb package for iOS
+Section: Tweaks
+Filename: ./debs/lowerinstall.deb
+Size: 49800
+Installed-Size: 48
+MD5sum: a87a1058ae740678a11b8e1e350e1a5c
+SHA1: 8ca33b8fb99fcf2cf2f2ace1ab01baff8890144a
+SHA256: 10e8381deda5cc3d245125e9d24e9395e089721565cd591287a9d6f130e07a3e
+Name: lowerinstall.deb
+
