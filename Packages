@@ -158,3 +158,17 @@ SHA1: 8ca33b8fb99fcf2cf2f2ace1ab01baff8890144a
 SHA256: 10e8381deda5cc3d245125e9d24e9395e089721565cd591287a9d6f130e07a3e
 Name: lowerinstall.deb
 
+Package: lowerinstall beta 6
+Version: 
+Architecture: iphoneos-arm
+Maintainer: 
+Description: 😀😀
+Section: Tweaks
+Filename: ./debs/lowerinstall.deb
+Size: 49800
+Installed-Size: 48
+MD5sum: a87a1058ae740678a11b8e1e350e1a5c
+SHA1: 8ca33b8fb99fcf2cf2f2ace1ab01baff8890144a
+SHA256: 10e8381deda5cc3d245125e9d24e9395e089721565cd591287a9d6f130e07a3e
+Name: lowerinstall beta 6 <📵>
+
