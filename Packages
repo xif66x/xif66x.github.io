@@ -148,7 +148,7 @@ Package: lowerinstall.deb
 Version: 
 Architecture: iphoneos-arm
 Maintainer: 
-Description: تشغيل اصدارات قديمه من التطبيقات
+Description: lowerinstall.deb package for iOS
 Section: Tweaks
 Filename: ./debs/lowerinstall.deb
 Size: 49800
