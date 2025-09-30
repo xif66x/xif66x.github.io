@@ -12,17 +12,3 @@ MD5sum: 41d08859adf77ad7c97293b8202c38c3
 SHA1: 8713093819e84c9cb846b46cdcf9994d881d9e76
 SHA256: 4315b6d97ef2b07e47cc9d7e3b1b70a16692f42e30dd99122141bb3521ddb5a1
 Name: com.leftyfl1p.carbridge13
-
-Package: com.yousefalhadidi.animecloud
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: com.yousefalhadidi.animecloud package for iOS
-Section: Tweaks
-Filename: ./debs/com.yousefalhadidi.animecloud_1.0+debug_iphoneos-arm64.deb
-Size: 8802
-Installed-Size: 8
-MD5sum: 10f70cd3a4a4b67bfa795a985cb7f091
-SHA1: c33fc9c1a9a4cda705abdb1547ad297929284e56
-SHA256: 4a974083a68a6be492efd0a39e03bc9ce6cd8c1376aa110620bc62c104c6ba04
-Name: com.yousefalhadidi.animecloud
