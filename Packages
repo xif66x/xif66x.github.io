@@ -172,3 +172,17 @@ SHA1: 8ca33b8fb99fcf2cf2f2ace1ab01baff8890144a
 SHA256: 10e8381deda5cc3d245125e9d24e9395e089721565cd591287a9d6f130e07a3e
 Name: lowerinstall beta 6 <📵>
 
+Package: dev.mineek.appstoretroller
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: dev.mineek.appstoretroller package for iOS
+Section: Tweaks
+Filename: ./debs/dev.mineek.appstoretroller_0.0.1_iphoneos-arm64.deb
+Size: 6752
+Installed-Size: 6
+MD5sum: 72cced8af6b06194c91a02db085c20f2
+SHA1: 580fc92ef3c0e39929b81cc37960c0f4325220f1
+SHA256: 55c5fdc48bbc375e5c4e6c9658f28fba8f9f84fd27ca99dfec1beb72ac88f6f6
+Name: dev.mineek.appstoretroller
+
